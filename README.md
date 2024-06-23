@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.swarthmore.edu%2Fits%2F2022%2F12%2F02%2Fwhats-new-from-github-universe-2022%2F&psig=AOvVaw2Yo-ruBSS0vK-OG9YKRhDq&ust=1719229080281000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjB9sPR8YYDFQAAAAAdAAAAABAE"  />
+  <img height="200" src="https://imgflip.com/i/8uqctu"  />
 </div>
 
 ###
@@ -25,12 +25,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/gvila99">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gvila99&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Vila99/Vila99/output/snake.svg" alt="Snake animation" />
 
 ###
